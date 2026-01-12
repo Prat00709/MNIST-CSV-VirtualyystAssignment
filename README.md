@@ -99,17 +99,10 @@ Outputs include:
 -----------------------------------------------------------------------
 6) How to Run
 -----------------------------------------------------------------------
-A) Kaggle (Recommended)
+Kaggle (Recommended)
 1. Upload notebook/script to Kaggle
 2. Add dataset: MNIST in CSV format (mnist_train.csv and mnist_test.csv)
 3. Run all cells
-
-B) Local Run
-1. Install requirements:
-   pip install -r requirements.txt
-
-2. Run:
-   python src/mnist_csv.py
 
 -----------------------------------------------------------------------
 7) Requirements
@@ -121,8 +114,3 @@ The following packages are required:
 - seaborn
 - scikit-learn
 - tqdm
-
------------------------------------------------------------------------
-8) Author
------------------------------------------------------------------------
-Pratik Patil
